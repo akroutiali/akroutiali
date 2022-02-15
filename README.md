@@ -1,9 +1,9 @@
 <h1>
-  Hi there I'm ALI 
+  Hi there 👋 I'm ALI 
  <h1>
 
 
-
+<h3> A embedded Linux Engineer from tunisia  <h3>
 - 👋 Hi, I’m Ali 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
