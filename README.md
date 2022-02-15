@@ -1,3 +1,9 @@
+<h1>
+  Hi there I'm ALI 
+ <h1>
+
+
+
 - 👋 Hi, I’m Ali 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
