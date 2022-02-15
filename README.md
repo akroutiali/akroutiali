@@ -1,6 +1,6 @@
 <p align="center">
 <h1>
-  Hi there 👋 I'm ALI 
+  Hi there 👋 I'm ALI man_technologist
  <h1>
    </p>
 
